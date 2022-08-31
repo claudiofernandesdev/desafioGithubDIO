@@ -1,12 +1,12 @@
 ## Link para download do Git no Linux
 
-[Link para download]([Git](https://git-scm.com/download/linux))
+[Link para download](https://git-scm.com/download/linux)
 
 
 
 ## Criando uma chave ssh no GitHub
 
-[Link da Documentação]([Gerar uma nova chave SSH e adicioná-la ao ssh-agent - GitHub Docs](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent))
+[Link da Documentação](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 
 

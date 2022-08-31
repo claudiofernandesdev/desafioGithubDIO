@@ -58,7 +58,7 @@
    
    Quando todos os arquivos precisam ser adicionados, para não precisar digitar tantos nome, você pode substituir o nome dos arquivos por um * (asterisco)
    
-   **git add ***
+   **git add * **
    
    
 
